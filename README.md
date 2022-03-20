@@ -4,5 +4,5 @@
 - 📫 How to reach me: amuntenci.silvio@gmail.com
 - 🤣 I kinda love memes, so you'll hear me saying "sus" many times
 - 🥚 I even like in-game secrets messages and easter eggs, just like [this](https://youtu.be/xvFZjo5PgG0)
-- so... whit that said...
+- so... with that said...
 - **SAY GOODBYEEEEE**
