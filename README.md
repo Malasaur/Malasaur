@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Malasaur
 - 👀 I’m interested in videogames, both playing and making them
-- 🌱 I’m currently learning Python, HTML, css, JavaScript, c++, hacking (no just kidding! maybe...)
+- 🌱 I’m currently learning Python, HTML, CSS, JavaScript, C++, Hacking (no just kidding! maybe...)
 - 📫 How to reach me: amuntenci.silvio@gmail.com
-- 🤣 I kinda love memes, so you'll hear me saying "sus" many times
-- 🥚 I even like in-game secrets messages and easter eggs, just like [this](https://youtu.be/xvFZjo5PgG0)
-- so... with that said...
-- **SAY GOODBYEEEEE**
+- 🥚 I like in-game secrets messages and easter eggs, just like [this](https://youtu.be/xvFZjo5PgG0)
+
